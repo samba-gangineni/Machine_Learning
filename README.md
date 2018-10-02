@@ -1,2 +1,2 @@
 # Machine_Learning
-Contains Machine Learning Projects.
+Contains Machine Learning Exercises and Projects.
